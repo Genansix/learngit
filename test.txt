@@ -1,2 +1,3 @@
 test page.
 coding:utf8
+/usr/bin/dev
